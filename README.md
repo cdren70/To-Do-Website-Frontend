@@ -3,6 +3,7 @@
 To-Do List Manager adalah aplikasi web sederhana yang membantu Anda mengelola daftar tugas dan tetap terorganisir. Aplikasi ini memiliki antarmuka yang bersih dan intuitif, yang memudahkan Anda untuk menambahkan, melihat, dan menyelesaikan tugas.
 
 ## Fitur
+![Tampilan Awal To-Do List](img/Tampilan%20Awal%20To-Do%20List.png)
 
 Berdasarkan gambar, aplikasi ini tampaknya memiliki fitur-fitur berikut:
 
