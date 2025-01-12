@@ -28,9 +28,7 @@ Berdasarkan gambar, aplikasi ini tampaknya memiliki fitur-fitur berikut:
 
 Deskripsi ini berdasarkan gambar, sehingga teknologi yang digunakan belum bisa dipastikan. Namun, kemungkinan aplikasi ini dibangun menggunakan:
 
-*   **Frontend:** HTML, CSS, JavaScript (mungkin dengan framework seperti React, Vue, atau Angular)
-*   **Backend:** (Jika ada) - Bisa menggunakan Node.js, Python (dengan framework seperti Flask atau Django), atau teknologi server-side lainnya.
-*   **Database:** (Jika ada) -  Untuk menyimpan data daftar dan tugas, bisa menggunakan database seperti MySQL, PostgreSQL, atau MongoDB.
+*   **Frontend:** HTML, CSS, JavaScript
 
 ## Cara Menggunakan
 
